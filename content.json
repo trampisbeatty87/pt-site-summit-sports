@@ -1,91 +1,135 @@
 {
   "meta": {
-    "description": "Performance Physical Therapy for active lifestyles in Boston. Fix the root cause of your injury and keep doing what you love.",
-    "domain": "ripplebasecamp.com"
+    "description": "Performance physical therapy for mountain athletes in Denver and Boulder. Fix the root cause of your injury and get back to the trails, the rock, and the snow.",
+    "domain": "summitsportspt.com"
   },
   "brand": {
-    "name": "Ripple",
-    "logoText": "RIPPLE",
-    "city": "Boston",
-    "phone": "(617) 275-6022",
-    "email": "contact@ripplebasecamp.com",
-    "primaryCta": "Book your FREE 15-Minute Phone Consultation",
-    "headerCta": "Book Your 15-Minute Phone Call",
+    "name": "Summit Sports PT",
+    "logoText": "SUMMIT",
+    "city": "Denver",
+    "phone": "(303) 555-0142",
+    "email": "hello@summitsportspt.com",
+    "primaryCta": "Book your FREE 20-Minute Discovery Call",
+    "headerCta": "Book Your Free Discovery Call",
     "primaryCtaUrl": "book.html",
     "colors": {
-      "primary": "#FF5A6E",
-      "primaryDark": "#E0455A",
-      "ink": "#16181D",
-      "muted": "#5B6470",
+      "primary": "#2E7D5B",
+      "primaryDark": "#226046",
+      "ink": "#15201B",
+      "muted": "#5A6862",
       "bg": "#FFFFFF",
-      "soft": "#FFF4F5",
-      "line": "#ECEDEF"
+      "soft": "#EEF6F1",
+      "line": "#E4EAE6"
     }
   },
   "nav": [
-    { "label": "Home", "url": "index.html" },
-    { "label": "Physical Therapy", "url": "physical-therapy.html" },
-    { "label": "Locations", "url": "locations.html" },
-    { "label": "Contact Us", "url": "contact.html" },
-    { "label": "About Us", "url": "about.html" },
-    { "label": "Blog", "url": "blog.html" },
-    { "label": "Careers", "url": "careers.html" }
+    {
+      "label": "Home",
+      "url": "index.html"
+    },
+    {
+      "label": "Physical Therapy",
+      "url": "physical-therapy.html"
+    },
+    {
+      "label": "Locations",
+      "url": "locations.html"
+    },
+    {
+      "label": "Contact Us",
+      "url": "contact.html"
+    },
+    {
+      "label": "About Us",
+      "url": "about.html"
+    },
+    {
+      "label": "Blog",
+      "url": "blog.html"
+    },
+    {
+      "label": "Careers",
+      "url": "careers.html"
+    }
   ],
   "footer": {
     "locations": [
-      "661 Boylston Street, FL2, Boston, MA",
-      "540 Tremont Street, Unit 9, Boston, MA",
-      "17 Station Street, Suite 100, Brookline, MA"
+      "2500 Larimer St, Suite 200, Denver, CO",
+      "1100 Pearl St, Suite 5, Boulder, CO"
     ],
     "hours": [
-      "Monday–Friday: 6:30am–8:00pm",
-      "Saturday–Sunday: By Appointment Only"
+      "Denver (RiNo): Mon–Fri 7:00am–7:00pm, Sat 8:00am–12:00pm",
+      "Boulder: Mon–Fri 7:00am–6:00pm"
     ],
     "links": [
-      { "label": "Physical Therapy", "url": "physical-therapy.html" },
-      { "label": "About Us", "url": "about.html" },
-      { "label": "Careers", "url": "careers.html" },
-      { "label": "Book a Call", "url": "book.html" }
+      {
+        "label": "Physical Therapy",
+        "url": "physical-therapy.html"
+      },
+      {
+        "label": "About Us",
+        "url": "about.html"
+      },
+      {
+        "label": "Careers",
+        "url": "careers.html"
+      },
+      {
+        "label": "Book a Call",
+        "url": "book.html"
+      }
     ]
   },
   "pages": {
     "index": {
-      "title": "Ripple — Performance Physical Therapy in Boston",
-      "description": "Performance Physical Therapy for active lifestyles in Boston. Keep doing what you love, no matter how hard you push it.",
+      "title": "Summit Sports PT — Performance Physical Therapy in Denver & Boulder",
+      "description": "Performance physical therapy for mountain athletes in Denver and Boulder. Get back to the trails, the rock, and the snow — stronger than before.",
       "blocks": [
         {
           "type": "hero",
-          "eyebrow": "Performance Physical Therapy for Active Lifestyles in Boston",
-          "headline": "Keep doing what you love, no matter how hard you push it",
-          "subhead": "We fix the root cause of your injury so you can get back to the active lifestyle that makes you you.",
-          "cta": "Book your FREE 15-Minute Phone Consultation",
+          "eyebrow": "Performance Physical Therapy for Mountain Athletes in Denver & Boulder",
+          "headline": "Get back to the mountains, not just out of pain",
+          "subhead": "We fix the root cause of your injury so you can run the trails, climb the rock, and ski the lines that make you you.",
+          "cta": "Book your FREE 20-Minute Discovery Call",
           "image": "assets/hero.jpg"
         },
         {
           "type": "text",
-          "headline": "Injuries strip you of your identity",
-          "body": "When pain keeps you from the things you love — running, lifting, climbing, playing with your kids — it takes more than your mobility. It takes a piece of who you are. Generic stretches and band-aid fixes won't get it back.",
-          "cta": "Schedule a FREE consultation"
+          "headline": "An injury takes more than your miles",
+          "body": "When pain keeps you off the trail, off the wall, or off the slopes, it takes more than your fitness. It takes the part of you that comes alive outside. Generic stretches and rest-and-pray won't bring it back.",
+          "cta": "Schedule a FREE discovery call"
         },
         {
           "type": "empathy",
-          "headline": "We care about your injuries as much as you do",
-          "tagline": "We push it too, and we know how hard it is when you can't."
+          "headline": "We care about your injury as much as you do",
+          "tagline": "We chase summits too — and we know how hard it is when you can't."
         },
         {
           "type": "steps",
           "headline": "Getting back is simple",
           "steps": [
-            { "title": "Book a FREE phone consultation", "body": "Hop on a quick 15-minute call so we can understand your goals, your injury, and whether we're the right fit.", "image": "assets/step-1.jpg" },
-            { "title": "Determine who your guide is", "body": "We match you with the therapist who specializes in exactly what you need and build a plan around your life.", "image": "assets/step-2.jpg" },
-            { "title": "Get back & better to your active lifestyle", "body": "Execute the plan with a coach in your corner, and return stronger than before — without fear of re-injury.", "image": "assets/step-3.jpg" }
+            {
+              "title": "Book a FREE discovery call",
+              "body": "Hop on a quick 20-minute call so we can understand your goals, your injury, and whether we're the right fit.",
+              "image": "assets/step-1.jpg"
+            },
+            {
+              "title": "Get matched with your guide",
+              "body": "We pair you with the therapist who specializes in exactly what you need and build a plan around your life.",
+              "image": "assets/step-2.jpg"
+            },
+            {
+              "title": "Return to the mountains — better",
+              "body": "Execute the plan with a coach in your corner and come back stronger than before, without fear of re-injury.",
+              "image": "assets/step-3.jpg"
+            }
           ]
         },
         {
           "type": "split",
-          "headline": "You lose a piece of yourself when you give up your active lifestyle",
-          "body": "Performance Physical Therapy doesn't just dull the pain — it eliminates it at the source, so you can keep pushing without holding back.",
-          "cta": "Book Your FREE Phone Consultation",
+          "headline": "You lose a piece of yourself when the mountains are off the table",
+          "body": "Performance physical therapy doesn't just quiet the pain — it eliminates it at the source, so you can keep pushing without holding back.",
+          "cta": "Book Your FREE Discovery Call",
           "image": "assets/lifestyle.jpg"
         },
         {
@@ -93,44 +137,68 @@
           "headline": "How we do it",
           "soft": true,
           "items": [
-            { "title": "Performance Physical Therapy", "body": "We don't just put a band-aid on your injury — we fix the root cause. 60-minute one-on-one sessions combining manual therapy, dry needling, and strength work.", "linkText": "Solve Your Pain", "linkUrl": "physical-therapy.html" },
-            { "title": "Latest Technology", "body": "Force dynamometry, run analysis, blood flow restriction, and golf swing assessments — data-driven care that finds what's really going on.", "linkText": "Learn More About Us", "linkUrl": "about.html" },
-            { "title": "Ripple Virtual", "body": "Personalized Zoom sessions, online coaching, and a mobile app — expert care wherever you are, on your schedule.", "linkText": "Find Out More", "linkUrl": "contact.html" }
+            {
+              "title": "Performance Physical Therapy",
+              "body": "We don't slap a band-aid on the sore spot — we fix the root cause. 60-minute one-on-one sessions combining manual therapy, dry needling, and real strength work.",
+              "linkText": "Solve Your Pain",
+              "linkUrl": "physical-therapy.html"
+            },
+            {
+              "title": "Data-Driven Care",
+              "body": "Running gait analysis, strength testing, and blood flow restriction — objective tools that find what's actually going on instead of guessing.",
+              "linkText": "Learn More About Us",
+              "linkUrl": "about.html"
+            },
+            {
+              "title": "Built for Your Sport",
+              "body": "Trail runner, climber, skier — your plan is built around the demands of your sport and the lines you want to get back to.",
+              "linkText": "Find Out More",
+              "linkUrl": "contact.html"
+            }
           ]
         },
         {
           "type": "checklist",
-          "headline": "We've helped hundreds of Boston residents get back to what they love",
-          "body": "It starts with a free consultation and a customized plan. From there, you execute with us in your corner — follow-up emails after every session, weekly exercises delivered through our app, and 24/7 access to your clinician.",
+          "headline": "We've helped Front Range athletes get back to what they love",
+          "body": "It starts with a free discovery call and a customized plan. From there, you execute with us in your corner — follow-up after every session, a clear weekly progression, and a clinician who actually answers when you reach out.",
           "items": [
-            "Move pain-free again",
-            "Perform better than before your injury",
+            "Move pain-free on the trail and the wall again",
+            "Perform better than you did before your injury",
             "Train with confidence, not caution",
-            "Never fear re-injury holding you back"
+            "Stop letting fear of re-injury hold you back"
           ]
         },
         {
           "type": "ctaBand",
           "headline": "See what we're all about",
-          "body": "A space built for performance and a team that treats your goals like their own. Let's find out if we're the right fit.",
-          "cta": "Book Your Free Phone Consult"
+          "body": "A clinic built for performance and a team that treats your goals like their own. Let's find out if we're the right fit.",
+          "cta": "Book Your Free Discovery Call"
         },
         {
           "type": "testimonials",
           "headline": "Don't take our word for it",
           "items": [
-            { "name": "Julian R.", "rating": 5, "quote": "Jules gave me personalized care and tailored exercises that finally fixed my low back pain. I'm back to lifting with zero hesitation." },
-            { "name": "Ryan L.", "rating": 5, "quote": "An eight-year climbing injury — gone. They found the root cause and trained my whole body, not just the sore spot." },
-            { "name": "Eric W.", "rating": 5, "quote": "Casey relieved years of muscle pain in a matter of months. I wish I'd come here sooner." },
-            { "name": "David J.", "rating": 5, "quote": "Dan delivered more progress in 2 months than every provider I'd seen combined." },
-            { "name": "Jayna L.", "rating": 5, "quote": "Recovered from runner's knee and IT band tendinitis in 2.5 weeks — just in time for my marathon." },
-            { "name": "LJ K.", "rating": 5, "quote": "Chris adapted with me through changing diagnoses and never missed a beat. Truly customized care." }
+            {
+              "name": "Client name",
+              "rating": 5,
+              "quote": "Add a real client review here."
+            },
+            {
+              "name": "Client name",
+              "rating": 5,
+              "quote": "Add a real client review here."
+            },
+            {
+              "name": "Client name",
+              "rating": 5,
+              "quote": "Add a real client review here."
+            }
           ]
         },
         {
           "type": "leadMagnet",
-          "headline": "Got tight hips?",
-          "body": "Most advice tells you to stretch more. We'll show you the customized approach that actually loosens tight hips for good — free guide, no strings.",
+          "headline": "Rolled an ankle on the trail one too many times?",
+          "body": "Most advice tells you to rest and tape it up. Our free Trail-Ready Ankle Guide shows you the approach that actually builds ankle resilience for the descents — no strings.",
           "cta": "Download the Free Guide",
           "image": "assets/lead-magnet.jpg",
           "soft": true
@@ -138,110 +206,156 @@
       ]
     },
     "physical-therapy": {
-      "title": "Physical Therapy — Ripple",
-      "description": "Performance Physical Therapy in Boston: 60-minute one-on-one sessions that fix the root cause of your pain.",
+      "title": "Physical Therapy — Summit Sports PT",
+      "description": "Performance physical therapy in Denver & Boulder: 60-minute one-on-one sessions that fix the root cause of your pain.",
       "blocks": [
         {
           "type": "pageHeader",
           "eyebrow": "Performance Physical Therapy",
           "headline": "We fix the root cause — not just the symptom",
-          "subhead": "Every session is 60 minutes, one-on-one with your therapist. No double-booking, no passing you to an aide.",
+          "subhead": "Every session is 60 minutes, one-on-one with your therapist. No double-booking, no handing you off to a tech.",
           "image": "assets/pt-header.jpg"
         },
         {
           "type": "text",
-          "headline": "What makes Performance PT different",
+          "headline": "What makes performance PT different",
           "body": [
             "Most clinics treat the spot that hurts and send you on your way. We look at how your whole body moves, find why the pain started, and build the strength and mechanics that keep it from coming back.",
-            "That means more time with you, better assessments, and a plan built around the life you actually want to live."
+            "That means more time with you, sharper assessments, and a plan built around the trails, routes, and lines you actually want to get back to."
           ]
         },
         {
           "type": "cards",
-          "headline": "Inside a Ripple session",
+          "headline": "Inside a Summit session",
           "soft": true,
           "items": [
-            { "title": "Hands-on manual therapy", "body": "Targeted soft-tissue and joint work to restore mobility and calm down painful tissue fast." },
-            { "title": "Dry needling", "body": "Precise relief for stubborn muscular pain and trigger points that won't let go." },
-            { "title": "Strength & performance", "body": "Real gym-based work that rebuilds capacity so your fix holds under load." },
-            { "title": "Force dynamometry", "body": "Objective strength testing so we measure progress instead of guessing at it." },
-            { "title": "Running & gait analysis", "body": "Slow-motion video and metrics to find the mechanics behind your injury." },
-            { "title": "Blood flow restriction", "body": "Build strength with lighter loads when you're early in recovery or rehabbing." }
+            {
+              "title": "Hands-on manual therapy",
+              "body": "Targeted soft-tissue and joint work to restore mobility and calm down painful tissue fast."
+            },
+            {
+              "title": "Dry needling",
+              "body": "Precise relief for stubborn muscular pain and trigger points that won't let go."
+            },
+            {
+              "title": "Strength & conditioning",
+              "body": "Real gym-based work that rebuilds capacity so your fix holds up under load and altitude."
+            },
+            {
+              "title": "Running gait analysis",
+              "body": "Slow-motion video and metrics to find the mechanics driving your running injury."
+            },
+            {
+              "title": "Blood flow restriction",
+              "body": "Build strength with lighter loads when you're early in recovery or rehabbing."
+            },
+            {
+              "title": "Return-to-sport testing",
+              "body": "Objective benchmarks so you know you're ready for the trail, the wall, or the season."
+            }
           ]
         },
         {
           "type": "steps",
           "headline": "What to expect",
           "steps": [
-            { "title": "Assess", "body": "A full-body evaluation to find the true source of your pain — not just where you feel it.", "image": "assets/step-1.jpg" },
-            { "title": "Treat", "body": "Hands-on care plus a personalized plan you can actually fit into your week.", "image": "assets/step-2.jpg" },
-            { "title": "Build", "body": "Progressive strength work so you come back more durable than you were before.", "image": "assets/step-3.jpg" }
+            {
+              "title": "Assess",
+              "body": "A full-body evaluation to find the true source of your pain — not just where you feel it.",
+              "image": "assets/step-1.jpg"
+            },
+            {
+              "title": "Treat",
+              "body": "Hands-on care plus a personalized plan you can actually fit into your week.",
+              "image": "assets/step-2.jpg"
+            },
+            {
+              "title": "Build",
+              "body": "Progressive strength work so you come back more durable than you were before.",
+              "image": "assets/step-3.jpg"
+            }
           ]
         },
         {
           "type": "checklist",
-          "headline": "Conditions we treat every day",
-          "body": "If pain is keeping you from the activities you love, there's a good chance we can help. A few of the most common reasons people come to Ripple:",
+          "headline": "What we treat every day",
+          "body": "If pain is keeping you from the activities you love, there's a good chance we can help. A few of the most common reasons mountain athletes come to Summit:",
           "items": [
+            "Running & trail-running injuries (runner's knee, IT band, shin splints)",
+            "Climbing & overuse injuries (fingers, elbows, shoulders)",
+            "Ski & snowboard rehab and return-to-snow",
             "Low back & neck pain",
-            "Running injuries (runner's knee, IT band, shin splints)",
-            "Shoulder pain & rotator cuff issues",
-            "Climbing & overuse injuries",
-            "Post-surgical rehab",
-            "Knee, hip & ankle pain"
+            "Ankle sprains & chronic instability",
+            "Post-surgical rehab and return-to-sport"
           ]
         },
         {
           "type": "ctaBand",
           "headline": "Not sure if we're the right fit?",
-          "body": "That's exactly what the free 15-minute call is for. No pressure — just answers.",
-          "cta": "Book Your Free Phone Consult"
+          "body": "That's exactly what the free 20-minute call is for. No pressure — just answers.",
+          "cta": "Book Your Free Discovery Call"
         }
       ]
     },
     "locations": {
-      "title": "Locations — Ripple",
-      "description": "Find a Ripple Physical Therapy location in Boston and Brookline.",
+      "title": "Locations — Summit Sports PT",
+      "description": "Find a Summit Sports Physical Therapy location in Denver and Boulder.",
       "blocks": [
         {
           "type": "pageHeader",
           "eyebrow": "Locations",
-          "headline": "Three locations across Greater Boston",
+          "headline": "Two locations along the Front Range",
           "subhead": "Performance physical therapy close to where you live, work, and train."
         },
         {
           "type": "locations",
           "items": [
-            { "name": "Back Bay", "address": "661 Boylston Street, FL2, Boston, MA", "hours": ["Mon–Fri: 6:30am–8:00pm", "Sat–Sun: By appointment"], "phone": "(617) 275-6022", "mapUrl": "https://maps.google.com/?q=661+Boylston+Street+Boston+MA" },
-            { "name": "South End", "address": "540 Tremont Street, Unit 9, Boston, MA", "hours": ["Mon–Fri: 6:30am–8:00pm", "Sat–Sun: By appointment"], "phone": "(617) 275-6022", "mapUrl": "https://maps.google.com/?q=540+Tremont+Street+Boston+MA" },
-            { "name": "Brookline", "address": "17 Station Street, Suite 100, Brookline, MA", "hours": ["Mon–Fri: 6:30am–8:00pm", "Sat–Sun: By appointment"], "phone": "(617) 275-6022", "mapUrl": "https://maps.google.com/?q=17+Station+Street+Brookline+MA" }
+            {
+              "name": "Denver — RiNo",
+              "address": "2500 Larimer St, Suite 200, Denver, CO",
+              "hours": [
+                "Mon–Fri: 7:00am–7:00pm",
+                "Sat: 8:00am–12:00pm"
+              ],
+              "phone": "(303) 555-0142",
+              "mapUrl": "https://maps.google.com/?q=2500+Larimer+St+Denver+CO"
+            },
+            {
+              "name": "Boulder",
+              "address": "1100 Pearl St, Suite 5, Boulder, CO",
+              "hours": [
+                "Mon–Fri: 7:00am–6:00pm"
+              ],
+              "phone": "(303) 555-0188",
+              "mapUrl": "https://maps.google.com/?q=1100+Pearl+St+Boulder+CO"
+            }
           ]
         },
         {
           "type": "ctaBand",
           "headline": "Ready to get started?",
           "body": "Book a free call and we'll match you with the right therapist at the location nearest you.",
-          "cta": "Book Your Free Phone Consult"
+          "cta": "Book Your Free Discovery Call"
         }
       ]
     },
     "about": {
-      "title": "About Us — Ripple",
-      "description": "Meet the Ripple team — performance physical therapists who push it too.",
+      "title": "About Us — Summit Sports PT",
+      "description": "Meet the Summit Sports PT team — performance physical therapists who chase summits too.",
       "blocks": [
         {
           "type": "pageHeader",
           "eyebrow": "About Us",
-          "headline": "We push it too",
-          "subhead": "We're athletes, lifters, runners, and climbers first — and we know exactly how it feels when an injury takes that away.",
+          "headline": "We chase summits too",
+          "subhead": "We're runners, climbers, and skiers first — and we know exactly how it feels when an injury takes the mountains away.",
           "image": "assets/about-header.jpg"
         },
         {
           "type": "split",
           "headline": "Our story",
           "body": [
-            "Ripple started with a simple frustration: traditional physical therapy wasn't built for people who push their bodies. Fifteen-minute visits, hot packs, and a sheet of generic exercises don't cut it when your goal is a marathon, a max lift, or a hard climb.",
-            "So we built something different — a clinic where every session is an hour, one-on-one, focused on getting you back to performing, not just pain-free on paper."
+            "Summit started with a simple frustration: traditional physical therapy wasn't built for people who push their bodies in the mountains. Fifteen-minute visits, hot packs, and a generic sheet of exercises don't cut it when your goal is a 50K, a hard send, or a full ski season.",
+            "Founded by a former collegiate runner, we built something different — a clinic where every session is an hour, one-on-one, focused on getting you back to performing, not just pain-free on paper."
           ],
           "image": "assets/lifestyle.jpg",
           "cta": "Book a Free Call"
@@ -251,9 +365,18 @@
           "headline": "What we believe",
           "soft": true,
           "items": [
-            { "title": "Root cause, always", "body": "We never settle for masking symptoms. We find why it started and fix it for good." },
-            { "title": "Performance, not just recovery", "body": "Our goal isn't to get you to zero pain — it's to get you better than before." },
-            { "title": "You're an athlete", "body": "However you move, we treat you like the athlete you are and train you like one." }
+            {
+              "title": "Root cause, always",
+              "body": "We never settle for masking symptoms. We find why it started and fix it for good."
+            },
+            {
+              "title": "Performance, not just recovery",
+              "body": "Our goal isn't to get you to zero pain — it's to get you back stronger than before."
+            },
+            {
+              "title": "You're an athlete",
+              "body": "However you move in the mountains, we treat you like the athlete you are and train you like one."
+            }
           ]
         },
         {
@@ -261,23 +384,35 @@
           "headline": "Meet the team",
           "columns": 3,
           "items": [
-            { "title": "Casey", "body": "Founder & Performance PT. Leads every new client's first consultation." },
-            { "title": "Jules", "body": "Specializes in low back and persistent pain with a personalized approach." },
-            { "title": "Chris", "body": "Adapts care across changing diagnoses to keep you moving forward." },
-            { "title": "Dan", "body": "Known for fast, measurable progress where others have stalled." }
+            {
+              "title": "Founder & Performance PT",
+              "body": "Former collegiate runner who leads every new client's first discovery call."
+            },
+            {
+              "title": "Running Specialist",
+              "body": "Gait analysis and load management to keep runners on the trail and out of the clinic."
+            },
+            {
+              "title": "Climbing & Upper-Body PT",
+              "body": "Fingers, elbows, and shoulders — keeping climbers strong through hard projects."
+            },
+            {
+              "title": "Strength & Return-to-Sport",
+              "body": "Builds the durability that gets you ready for the season, not just the next appointment."
+            }
           ]
         },
         {
           "type": "ctaBand",
           "headline": "Come see what we're all about",
-          "body": "Let's find out if we're the right fit — starting with a free 15-minute call.",
-          "cta": "Book Your Free Phone Consult"
+          "body": "Let's find out if we're the right fit — starting with a free 20-minute call.",
+          "cta": "Book Your Free Discovery Call"
         }
       ]
     },
     "contact": {
-      "title": "Contact Us — Ripple",
-      "description": "Get in touch with Ripple Physical Therapy in Boston.",
+      "title": "Contact Us — Summit Sports PT",
+      "description": "Get in touch with Summit Sports Physical Therapy in Denver and Boulder.",
       "blocks": [
         {
           "type": "pageHeader",
@@ -290,47 +425,94 @@
           "formName": "contact",
           "submitText": "Send message",
           "fields": [
-            { "name": "name", "label": "Name", "type": "text", "required": true },
-            { "name": "email", "label": "Email", "type": "email", "required": true },
-            { "name": "phone", "label": "Phone", "type": "tel" },
-            { "name": "location", "label": "Preferred location", "type": "text" },
-            { "name": "message", "label": "How can we help?", "type": "textarea", "required": true, "full": true }
+            {
+              "name": "name",
+              "label": "Name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "email",
+              "label": "Email",
+              "type": "email",
+              "required": true
+            },
+            {
+              "name": "phone",
+              "label": "Phone",
+              "type": "tel"
+            },
+            {
+              "name": "location",
+              "label": "Preferred location (Denver or Boulder)",
+              "type": "text"
+            },
+            {
+              "name": "message",
+              "label": "How can we help?",
+              "type": "textarea",
+              "required": true,
+              "full": true
+            }
           ]
         },
         {
           "type": "ctaBand",
           "headline": "Prefer to talk it through?",
-          "body": "Book a free 15-minute phone consultation and we'll answer everything live.",
-          "cta": "Book Your Free Phone Consult"
+          "body": "Book a free 20-minute discovery call and we'll answer everything live.",
+          "cta": "Book Your Free Discovery Call"
         }
       ]
     },
     "careers": {
-      "title": "Careers — Ripple",
-      "description": "Join the Ripple team — performance physical therapy careers in Boston.",
+      "title": "Careers — Summit Sports PT",
+      "description": "Join the Summit Sports PT team — performance physical therapy careers in Denver and Boulder.",
       "blocks": [
         {
           "type": "pageHeader",
           "eyebrow": "Careers",
           "headline": "Do the best work of your career",
-          "subhead": "Hour-long sessions. A team that pushes it too. The autonomy to actually help people get better."
+          "subhead": "Hour-long sessions. A team that chases summits too. The autonomy to actually help people get better."
         },
         {
           "type": "cards",
           "headline": "Why clinicians love working here",
           "soft": true,
           "items": [
-            { "title": "Real time with patients", "body": "Every session is 60 minutes, one-on-one. No double-booking, no burnout treadmill." },
-            { "title": "Grow your craft", "body": "Mentorship, con-ed support, and a team that geeks out on getting better." },
-            { "title": "Work with athletes", "body": "Treat motivated, active people who do their homework and chase real goals." }
+            {
+              "title": "Real time with patients",
+              "body": "Every session is 60 minutes, one-on-one. No double-booking, no burnout treadmill."
+            },
+            {
+              "title": "Grow your craft",
+              "body": "Mentorship, con-ed support, and a team that geeks out on getting better."
+            },
+            {
+              "title": "Work with mountain athletes",
+              "body": "Treat motivated runners, climbers, and skiers who do their homework and chase real goals."
+            }
           ]
         },
         {
           "type": "jobs",
           "headline": "Open roles",
           "items": [
-            { "title": "Doctor of Physical Therapy", "type": "Full-time", "location": "Boston, MA", "body": "Lead one-on-one performance PT sessions and help build customized plans for active clients.", "applyText": "Apply now", "applyUrl": "contact.html" },
-            { "title": "Front Desk / Patient Experience", "type": "Full-time", "location": "Boston, MA", "body": "Be the welcoming first face of Ripple and keep the clinic running smoothly.", "applyText": "Apply now", "applyUrl": "contact.html" }
+            {
+              "title": "Doctor of Physical Therapy",
+              "type": "Full-time",
+              "location": "Denver, CO",
+              "body": "Lead one-on-one performance PT sessions and build customized plans for active mountain athletes.",
+              "applyText": "Apply now",
+              "applyUrl": "contact.html"
+            },
+            {
+              "title": "Front Desk / Patient Experience",
+              "type": "Full-time",
+              "location": "Boulder, CO",
+              "body": "Be the welcoming first face of Summit and keep the clinic running smoothly.",
+              "applyText": "Apply now",
+              "applyUrl": "contact.html"
+            }
           ]
         },
         {
@@ -343,14 +525,14 @@
       ]
     },
     "book": {
-      "title": "Book a Call — Ripple",
-      "description": "Book your free 15-minute phone consultation with Ripple Physical Therapy.",
+      "title": "Book a Call — Summit Sports PT",
+      "description": "Book your free 20-minute discovery call with Summit Sports Physical Therapy.",
       "blocks": [
         {
           "type": "pageHeader",
           "eyebrow": "Book a Call",
-          "headline": "Book your FREE 15-minute phone consultation",
-          "subhead": "Pick a time that works for you. We'll talk through your goals, your injury, and whether Ripple is the right fit — no pressure."
+          "headline": "Book your FREE 20-minute discovery call",
+          "subhead": "Pick a time that works for you. We'll talk through your goals, your injury, and whether Summit is the right fit — no pressure."
         },
         {
           "type": "embed",
@@ -369,43 +551,57 @@
       ]
     },
     "blog": {
-      "title": "Blog — Ripple",
-      "description": "Tips, guides, and stories from the Ripple Physical Therapy team.",
+      "title": "Blog — Summit Sports PT",
+      "description": "Tips, guides, and stories from the Summit Sports PT team.",
       "blocks": [
         {
           "type": "pageHeader",
           "eyebrow": "Blog",
-          "headline": "Move better, live better",
-          "subhead": "Practical guidance from our team on training, recovery, and staying in the game."
+          "headline": "Move better, climb higher, ski longer",
+          "subhead": "Practical guidance from our team on training, recovery, and staying in the game year-round."
         },
-        { "type": "blogIndex" }
+        {
+          "type": "blogIndex"
+        }
       ]
     }
   },
   "blog": {
     "posts": [
       {
-        "slug": "fix-tight-hips",
-        "title": "Why stretching isn't fixing your tight hips",
+        "slug": "trail-ready-ankles",
+        "title": "Why your ankles keep rolling on the trail (and what actually fixes it)",
         "date": "June 2026",
-        "excerpt": "If you've been stretching for months with no change, the problem probably isn't flexibility. Here's what actually works.",
+        "excerpt": "If you've sprained the same ankle more than once, the problem usually isn't bad luck. Here's how to build an ankle that holds up on technical descents.",
         "cover": "assets/lead-magnet.jpg",
         "body": [
-          "If your hips feel tight no matter how much you stretch, you're not alone — and you're probably chasing the wrong fix.",
-          "Tightness is often your body's way of protecting a joint that doesn't feel stable or strong through its full range. Stretch all you want; if the underlying strength and control aren't there, the tightness comes right back.",
-          "The real fix is usually a mix of mobility work in the positions you actually use, plus strength built through that new range so your body trusts it. That's exactly the kind of plan we build in a Performance PT session."
+          "If your ankle keeps rolling on rocky descents, you're not unlucky — your ankle is missing the strength and control it needs to react when the ground moves under you.",
+          "After a sprain, most people rest, tape up, and hope. But the balance, ankle strength, and reaction speed don't come back on their own. That's why the same ankle keeps giving out trip after trip.",
+          "The real fix is progressive loading, single-leg balance work on unstable surfaces, and calf and foot strength built for the demands of downhill running. That's exactly the kind of plan we build in a performance PT session — and the foundation of our free Trail-Ready Ankle Guide."
         ]
       },
       {
         "slug": "runners-knee-comeback",
         "title": "Coming back from runner's knee without losing your season",
         "date": "May 2026",
-        "excerpt": "Runner's knee doesn't have to mean months off. Here's how we get runners back on the road — smartly.",
+        "excerpt": "Runner's knee doesn't have to mean months off the trail. Here's how we get Front Range runners back on the road — smartly.",
         "cover": "assets/step-1.jpg",
         "body": [
           "Runner's knee is one of the most common reasons runners come to see us — and one of the most fixable.",
-          "The key is to address the mechanics driving the pain rather than just resting until it quiets down. Rest alone tends to set you up for the same problem the moment mileage climbs again.",
-          "With the right load management, hip and quad strength work, and small gait tweaks, most runners are back to training in weeks, not months."
+          "The key is addressing the mechanics driving the pain rather than just resting until it quiets down. Rest alone tends to set you up for the same problem the moment your mileage climbs again.",
+          "With the right load management, hip and quad strength work, and small gait tweaks, most runners are back to training in weeks, not months — and back on the trails before the season slips away."
+        ]
+      },
+      {
+        "slug": "preseason-ski-prep",
+        "title": "Build a ski-ready body before the first storm",
+        "date": "October 2026",
+        "excerpt": "The best way to avoid a season-ending knee injury isn't luck — it's preparation. Here's where to start before opening day.",
+        "cover": "assets/step-3.jpg",
+        "body": [
+          "Most ski injuries we see aren't freak accidents — they're the result of showing up to opening day with legs that haven't been loaded since spring.",
+          "Skiing and snowboarding demand strength, control, and endurance through deep ranges your body forgets over the off-season. When fatigue sets in late in the day, that's when knees and shoulders pay the price.",
+          "A focused six-to-eight week build of single-leg strength, eccentric control, and conditioning makes a real difference. Start early, train the right way, and you'll ski stronger and longer all season."
         ]
       }
     ]
