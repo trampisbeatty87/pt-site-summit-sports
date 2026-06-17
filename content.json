@@ -1,0 +1,413 @@
+{
+  "meta": {
+    "description": "Performance Physical Therapy for active lifestyles in Boston. Fix the root cause of your injury and keep doing what you love.",
+    "domain": "ripplebasecamp.com"
+  },
+  "brand": {
+    "name": "Ripple",
+    "logoText": "RIPPLE",
+    "city": "Boston",
+    "phone": "(617) 275-6022",
+    "email": "contact@ripplebasecamp.com",
+    "primaryCta": "Book your FREE 15-Minute Phone Consultation",
+    "headerCta": "Book Your 15-Minute Phone Call",
+    "primaryCtaUrl": "book.html",
+    "colors": {
+      "primary": "#FF5A6E",
+      "primaryDark": "#E0455A",
+      "ink": "#16181D",
+      "muted": "#5B6470",
+      "bg": "#FFFFFF",
+      "soft": "#FFF4F5",
+      "line": "#ECEDEF"
+    }
+  },
+  "nav": [
+    { "label": "Home", "url": "index.html" },
+    { "label": "Physical Therapy", "url": "physical-therapy.html" },
+    { "label": "Locations", "url": "locations.html" },
+    { "label": "Contact Us", "url": "contact.html" },
+    { "label": "About Us", "url": "about.html" },
+    { "label": "Blog", "url": "blog.html" },
+    { "label": "Careers", "url": "careers.html" }
+  ],
+  "footer": {
+    "locations": [
+      "661 Boylston Street, FL2, Boston, MA",
+      "540 Tremont Street, Unit 9, Boston, MA",
+      "17 Station Street, Suite 100, Brookline, MA"
+    ],
+    "hours": [
+      "Monday–Friday: 6:30am–8:00pm",
+      "Saturday–Sunday: By Appointment Only"
+    ],
+    "links": [
+      { "label": "Physical Therapy", "url": "physical-therapy.html" },
+      { "label": "About Us", "url": "about.html" },
+      { "label": "Careers", "url": "careers.html" },
+      { "label": "Book a Call", "url": "book.html" }
+    ]
+  },
+  "pages": {
+    "index": {
+      "title": "Ripple — Performance Physical Therapy in Boston",
+      "description": "Performance Physical Therapy for active lifestyles in Boston. Keep doing what you love, no matter how hard you push it.",
+      "blocks": [
+        {
+          "type": "hero",
+          "eyebrow": "Performance Physical Therapy for Active Lifestyles in Boston",
+          "headline": "Keep doing what you love, no matter how hard you push it",
+          "subhead": "We fix the root cause of your injury so you can get back to the active lifestyle that makes you you.",
+          "cta": "Book your FREE 15-Minute Phone Consultation",
+          "image": "assets/hero.jpg"
+        },
+        {
+          "type": "text",
+          "headline": "Injuries strip you of your identity",
+          "body": "When pain keeps you from the things you love — running, lifting, climbing, playing with your kids — it takes more than your mobility. It takes a piece of who you are. Generic stretches and band-aid fixes won't get it back.",
+          "cta": "Schedule a FREE consultation"
+        },
+        {
+          "type": "empathy",
+          "headline": "We care about your injuries as much as you do",
+          "tagline": "We push it too, and we know how hard it is when you can't."
+        },
+        {
+          "type": "steps",
+          "headline": "Getting back is simple",
+          "steps": [
+            { "title": "Book a FREE phone consultation", "body": "Hop on a quick 15-minute call so we can understand your goals, your injury, and whether we're the right fit.", "image": "assets/step-1.jpg" },
+            { "title": "Determine who your guide is", "body": "We match you with the therapist who specializes in exactly what you need and build a plan around your life.", "image": "assets/step-2.jpg" },
+            { "title": "Get back & better to your active lifestyle", "body": "Execute the plan with a coach in your corner, and return stronger than before — without fear of re-injury.", "image": "assets/step-3.jpg" }
+          ]
+        },
+        {
+          "type": "split",
+          "headline": "You lose a piece of yourself when you give up your active lifestyle",
+          "body": "Performance Physical Therapy doesn't just dull the pain — it eliminates it at the source, so you can keep pushing without holding back.",
+          "cta": "Book Your FREE Phone Consultation",
+          "image": "assets/lifestyle.jpg"
+        },
+        {
+          "type": "cards",
+          "headline": "How we do it",
+          "soft": true,
+          "items": [
+            { "title": "Performance Physical Therapy", "body": "We don't just put a band-aid on your injury — we fix the root cause. 60-minute one-on-one sessions combining manual therapy, dry needling, and strength work.", "linkText": "Solve Your Pain", "linkUrl": "physical-therapy.html" },
+            { "title": "Latest Technology", "body": "Force dynamometry, run analysis, blood flow restriction, and golf swing assessments — data-driven care that finds what's really going on.", "linkText": "Learn More About Us", "linkUrl": "about.html" },
+            { "title": "Ripple Virtual", "body": "Personalized Zoom sessions, online coaching, and a mobile app — expert care wherever you are, on your schedule.", "linkText": "Find Out More", "linkUrl": "contact.html" }
+          ]
+        },
+        {
+          "type": "checklist",
+          "headline": "We've helped hundreds of Boston residents get back to what they love",
+          "body": "It starts with a free consultation and a customized plan. From there, you execute with us in your corner — follow-up emails after every session, weekly exercises delivered through our app, and 24/7 access to your clinician.",
+          "items": [
+            "Move pain-free again",
+            "Perform better than before your injury",
+            "Train with confidence, not caution",
+            "Never fear re-injury holding you back"
+          ]
+        },
+        {
+          "type": "ctaBand",
+          "headline": "See what we're all about",
+          "body": "A space built for performance and a team that treats your goals like their own. Let's find out if we're the right fit.",
+          "cta": "Book Your Free Phone Consult"
+        },
+        {
+          "type": "testimonials",
+          "headline": "Don't take our word for it",
+          "items": [
+            { "name": "Julian R.", "rating": 5, "quote": "Jules gave me personalized care and tailored exercises that finally fixed my low back pain. I'm back to lifting with zero hesitation." },
+            { "name": "Ryan L.", "rating": 5, "quote": "An eight-year climbing injury — gone. They found the root cause and trained my whole body, not just the sore spot." },
+            { "name": "Eric W.", "rating": 5, "quote": "Casey relieved years of muscle pain in a matter of months. I wish I'd come here sooner." },
+            { "name": "David J.", "rating": 5, "quote": "Dan delivered more progress in 2 months than every provider I'd seen combined." },
+            { "name": "Jayna L.", "rating": 5, "quote": "Recovered from runner's knee and IT band tendinitis in 2.5 weeks — just in time for my marathon." },
+            { "name": "LJ K.", "rating": 5, "quote": "Chris adapted with me through changing diagnoses and never missed a beat. Truly customized care." }
+          ]
+        },
+        {
+          "type": "leadMagnet",
+          "headline": "Got tight hips?",
+          "body": "Most advice tells you to stretch more. We'll show you the customized approach that actually loosens tight hips for good — free guide, no strings.",
+          "cta": "Download the Free Guide",
+          "image": "assets/lead-magnet.jpg",
+          "soft": true
+        }
+      ]
+    },
+    "physical-therapy": {
+      "title": "Physical Therapy — Ripple",
+      "description": "Performance Physical Therapy in Boston: 60-minute one-on-one sessions that fix the root cause of your pain.",
+      "blocks": [
+        {
+          "type": "pageHeader",
+          "eyebrow": "Performance Physical Therapy",
+          "headline": "We fix the root cause — not just the symptom",
+          "subhead": "Every session is 60 minutes, one-on-one with your therapist. No double-booking, no passing you to an aide.",
+          "image": "assets/pt-header.jpg"
+        },
+        {
+          "type": "text",
+          "headline": "What makes Performance PT different",
+          "body": [
+            "Most clinics treat the spot that hurts and send you on your way. We look at how your whole body moves, find why the pain started, and build the strength and mechanics that keep it from coming back.",
+            "That means more time with you, better assessments, and a plan built around the life you actually want to live."
+          ]
+        },
+        {
+          "type": "cards",
+          "headline": "Inside a Ripple session",
+          "soft": true,
+          "items": [
+            { "title": "Hands-on manual therapy", "body": "Targeted soft-tissue and joint work to restore mobility and calm down painful tissue fast." },
+            { "title": "Dry needling", "body": "Precise relief for stubborn muscular pain and trigger points that won't let go." },
+            { "title": "Strength & performance", "body": "Real gym-based work that rebuilds capacity so your fix holds under load." },
+            { "title": "Force dynamometry", "body": "Objective strength testing so we measure progress instead of guessing at it." },
+            { "title": "Running & gait analysis", "body": "Slow-motion video and metrics to find the mechanics behind your injury." },
+            { "title": "Blood flow restriction", "body": "Build strength with lighter loads when you're early in recovery or rehabbing." }
+          ]
+        },
+        {
+          "type": "steps",
+          "headline": "What to expect",
+          "steps": [
+            { "title": "Assess", "body": "A full-body evaluation to find the true source of your pain — not just where you feel it.", "image": "assets/step-1.jpg" },
+            { "title": "Treat", "body": "Hands-on care plus a personalized plan you can actually fit into your week.", "image": "assets/step-2.jpg" },
+            { "title": "Build", "body": "Progressive strength work so you come back more durable than you were before.", "image": "assets/step-3.jpg" }
+          ]
+        },
+        {
+          "type": "checklist",
+          "headline": "Conditions we treat every day",
+          "body": "If pain is keeping you from the activities you love, there's a good chance we can help. A few of the most common reasons people come to Ripple:",
+          "items": [
+            "Low back & neck pain",
+            "Running injuries (runner's knee, IT band, shin splints)",
+            "Shoulder pain & rotator cuff issues",
+            "Climbing & overuse injuries",
+            "Post-surgical rehab",
+            "Knee, hip & ankle pain"
+          ]
+        },
+        {
+          "type": "ctaBand",
+          "headline": "Not sure if we're the right fit?",
+          "body": "That's exactly what the free 15-minute call is for. No pressure — just answers.",
+          "cta": "Book Your Free Phone Consult"
+        }
+      ]
+    },
+    "locations": {
+      "title": "Locations — Ripple",
+      "description": "Find a Ripple Physical Therapy location in Boston and Brookline.",
+      "blocks": [
+        {
+          "type": "pageHeader",
+          "eyebrow": "Locations",
+          "headline": "Three locations across Greater Boston",
+          "subhead": "Performance physical therapy close to where you live, work, and train."
+        },
+        {
+          "type": "locations",
+          "items": [
+            { "name": "Back Bay", "address": "661 Boylston Street, FL2, Boston, MA", "hours": ["Mon–Fri: 6:30am–8:00pm", "Sat–Sun: By appointment"], "phone": "(617) 275-6022", "mapUrl": "https://maps.google.com/?q=661+Boylston+Street+Boston+MA" },
+            { "name": "South End", "address": "540 Tremont Street, Unit 9, Boston, MA", "hours": ["Mon–Fri: 6:30am–8:00pm", "Sat–Sun: By appointment"], "phone": "(617) 275-6022", "mapUrl": "https://maps.google.com/?q=540+Tremont+Street+Boston+MA" },
+            { "name": "Brookline", "address": "17 Station Street, Suite 100, Brookline, MA", "hours": ["Mon–Fri: 6:30am–8:00pm", "Sat–Sun: By appointment"], "phone": "(617) 275-6022", "mapUrl": "https://maps.google.com/?q=17+Station+Street+Brookline+MA" }
+          ]
+        },
+        {
+          "type": "ctaBand",
+          "headline": "Ready to get started?",
+          "body": "Book a free call and we'll match you with the right therapist at the location nearest you.",
+          "cta": "Book Your Free Phone Consult"
+        }
+      ]
+    },
+    "about": {
+      "title": "About Us — Ripple",
+      "description": "Meet the Ripple team — performance physical therapists who push it too.",
+      "blocks": [
+        {
+          "type": "pageHeader",
+          "eyebrow": "About Us",
+          "headline": "We push it too",
+          "subhead": "We're athletes, lifters, runners, and climbers first — and we know exactly how it feels when an injury takes that away.",
+          "image": "assets/about-header.jpg"
+        },
+        {
+          "type": "split",
+          "headline": "Our story",
+          "body": [
+            "Ripple started with a simple frustration: traditional physical therapy wasn't built for people who push their bodies. Fifteen-minute visits, hot packs, and a sheet of generic exercises don't cut it when your goal is a marathon, a max lift, or a hard climb.",
+            "So we built something different — a clinic where every session is an hour, one-on-one, focused on getting you back to performing, not just pain-free on paper."
+          ],
+          "image": "assets/lifestyle.jpg",
+          "cta": "Book a Free Call"
+        },
+        {
+          "type": "cards",
+          "headline": "What we believe",
+          "soft": true,
+          "items": [
+            { "title": "Root cause, always", "body": "We never settle for masking symptoms. We find why it started and fix it for good." },
+            { "title": "Performance, not just recovery", "body": "Our goal isn't to get you to zero pain — it's to get you better than before." },
+            { "title": "You're an athlete", "body": "However you move, we treat you like the athlete you are and train you like one." }
+          ]
+        },
+        {
+          "type": "cards",
+          "headline": "Meet the team",
+          "columns": 3,
+          "items": [
+            { "title": "Casey", "body": "Founder & Performance PT. Leads every new client's first consultation." },
+            { "title": "Jules", "body": "Specializes in low back and persistent pain with a personalized approach." },
+            { "title": "Chris", "body": "Adapts care across changing diagnoses to keep you moving forward." },
+            { "title": "Dan", "body": "Known for fast, measurable progress where others have stalled." }
+          ]
+        },
+        {
+          "type": "ctaBand",
+          "headline": "Come see what we're all about",
+          "body": "Let's find out if we're the right fit — starting with a free 15-minute call.",
+          "cta": "Book Your Free Phone Consult"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact Us — Ripple",
+      "description": "Get in touch with Ripple Physical Therapy in Boston.",
+      "blocks": [
+        {
+          "type": "pageHeader",
+          "eyebrow": "Contact Us",
+          "headline": "Let's talk",
+          "subhead": "Questions about working with us? Send a note and we'll get right back to you — or book a free call to skip the wait."
+        },
+        {
+          "type": "form",
+          "formName": "contact",
+          "submitText": "Send message",
+          "fields": [
+            { "name": "name", "label": "Name", "type": "text", "required": true },
+            { "name": "email", "label": "Email", "type": "email", "required": true },
+            { "name": "phone", "label": "Phone", "type": "tel" },
+            { "name": "location", "label": "Preferred location", "type": "text" },
+            { "name": "message", "label": "How can we help?", "type": "textarea", "required": true, "full": true }
+          ]
+        },
+        {
+          "type": "ctaBand",
+          "headline": "Prefer to talk it through?",
+          "body": "Book a free 15-minute phone consultation and we'll answer everything live.",
+          "cta": "Book Your Free Phone Consult"
+        }
+      ]
+    },
+    "careers": {
+      "title": "Careers — Ripple",
+      "description": "Join the Ripple team — performance physical therapy careers in Boston.",
+      "blocks": [
+        {
+          "type": "pageHeader",
+          "eyebrow": "Careers",
+          "headline": "Do the best work of your career",
+          "subhead": "Hour-long sessions. A team that pushes it too. The autonomy to actually help people get better."
+        },
+        {
+          "type": "cards",
+          "headline": "Why clinicians love working here",
+          "soft": true,
+          "items": [
+            { "title": "Real time with patients", "body": "Every session is 60 minutes, one-on-one. No double-booking, no burnout treadmill." },
+            { "title": "Grow your craft", "body": "Mentorship, con-ed support, and a team that geeks out on getting better." },
+            { "title": "Work with athletes", "body": "Treat motivated, active people who do their homework and chase real goals." }
+          ]
+        },
+        {
+          "type": "jobs",
+          "headline": "Open roles",
+          "items": [
+            { "title": "Doctor of Physical Therapy", "type": "Full-time", "location": "Boston, MA", "body": "Lead one-on-one performance PT sessions and help build customized plans for active clients.", "applyText": "Apply now", "applyUrl": "contact.html" },
+            { "title": "Front Desk / Patient Experience", "type": "Full-time", "location": "Boston, MA", "body": "Be the welcoming first face of Ripple and keep the clinic running smoothly.", "applyText": "Apply now", "applyUrl": "contact.html" }
+          ]
+        },
+        {
+          "type": "ctaBand",
+          "headline": "Don't see your role?",
+          "body": "We're always glad to meet great people. Reach out and introduce yourself.",
+          "cta": "Get in touch",
+          "ctaUrl": "contact.html"
+        }
+      ]
+    },
+    "book": {
+      "title": "Book a Call — Ripple",
+      "description": "Book your free 15-minute phone consultation with Ripple Physical Therapy.",
+      "blocks": [
+        {
+          "type": "pageHeader",
+          "eyebrow": "Book a Call",
+          "headline": "Book your FREE 15-minute phone consultation",
+          "subhead": "Pick a time that works for you. We'll talk through your goals, your injury, and whether Ripple is the right fit — no pressure."
+        },
+        {
+          "type": "embed",
+          "id": "scheduler",
+          "headline": "Choose a time",
+          "wide": true,
+          "html": "<!-- HubSpot Meetings scheduler embed. Replace the data-src URL with your HubSpot meeting link. -->\n<div class=\"meetings-iframe-container\" data-src=\"https://meetings.hubspot.com/YOUR-MEETING-LINK?embed=true\"></div>\n<script type=\"text/javascript\" src=\"https://static.hsappstatic.net/MeetingsEmbedCode/static/MeetingsEmbedCode.js\"></script>"
+        },
+        {
+          "type": "embed",
+          "id": "intake-form",
+          "headline": "Or send us your details",
+          "intro": "Prefer we reach out? Fill this out and we'll call you.",
+          "html": "<!-- HubSpot form embed. Replace region, portalId, and formId with your values. -->\n<script charset=\"utf-8\" type=\"text/javascript\" src=\"//js.hsforms.net/forms/embed/v2.js\"></script>\n<script>\n  hbspt.forms.create({\n    region: \"na1\",\n    portalId: \"YOUR_PORTAL_ID\",\n    formId: \"YOUR_FORM_ID\"\n  });\n</script>"
+        }
+      ]
+    },
+    "blog": {
+      "title": "Blog — Ripple",
+      "description": "Tips, guides, and stories from the Ripple Physical Therapy team.",
+      "blocks": [
+        {
+          "type": "pageHeader",
+          "eyebrow": "Blog",
+          "headline": "Move better, live better",
+          "subhead": "Practical guidance from our team on training, recovery, and staying in the game."
+        },
+        { "type": "blogIndex" }
+      ]
+    }
+  },
+  "blog": {
+    "posts": [
+      {
+        "slug": "fix-tight-hips",
+        "title": "Why stretching isn't fixing your tight hips",
+        "date": "June 2026",
+        "excerpt": "If you've been stretching for months with no change, the problem probably isn't flexibility. Here's what actually works.",
+        "cover": "assets/lead-magnet.jpg",
+        "body": [
+          "If your hips feel tight no matter how much you stretch, you're not alone — and you're probably chasing the wrong fix.",
+          "Tightness is often your body's way of protecting a joint that doesn't feel stable or strong through its full range. Stretch all you want; if the underlying strength and control aren't there, the tightness comes right back.",
+          "The real fix is usually a mix of mobility work in the positions you actually use, plus strength built through that new range so your body trusts it. That's exactly the kind of plan we build in a Performance PT session."
+        ]
+      },
+      {
+        "slug": "runners-knee-comeback",
+        "title": "Coming back from runner's knee without losing your season",
+        "date": "May 2026",
+        "excerpt": "Runner's knee doesn't have to mean months off. Here's how we get runners back on the road — smartly.",
+        "cover": "assets/step-1.jpg",
+        "body": [
+          "Runner's knee is one of the most common reasons runners come to see us — and one of the most fixable.",
+          "The key is to address the mechanics driving the pain rather than just resting until it quiets down. Rest alone tends to set you up for the same problem the moment mileage climbs again.",
+          "With the right load management, hip and quad strength work, and small gait tweaks, most runners are back to training in weeks, not months."
+        ]
+      }
+    ]
+  }
+}
